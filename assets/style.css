@@ -23,6 +23,15 @@ h1 {
     padding: 50px 0 32px;
 }
 
+.news article:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+.news article:nth-child(-n+2) h2:before {
+    content: "New ";
+    color: green;
+}
+
 article {
     width: 768px;
     margin: 0 auto 32px;
