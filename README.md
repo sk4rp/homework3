@@ -16,6 +16,30 @@
 
 1. Склонировать репозиторий на локальную машину:
 ```bash-
-git clone https://github.com/username/repository.git
+git clone https://github.com/sk4rp/homework3.git
 ```
+
+
+2. Перейти в папку проекта (in CLI):
+
+```bash-
+cd Desktop/hw (folder name)
+```
+
+
+3. Открыть файл `index.html` в любом веб-браузере.
+
+
+## Контакты
+
+- Email: supr.kz@gmail.com
+
+## Лицензия
+
+Этот проект лицензируется под [MIT License]
+
+
+
+
+
 
