@@ -34,10 +34,6 @@ cd Desktop/hw (folder name)
 
 - Email: supr.kz@gmail.com
 
-## Лицензия
-
-Этот проект лицензируется под [MIT License]
-
 
 
 
